@@ -1,0 +1,4 @@
+gb-pages/
+docs/.vuepress/dist/
+.vscode/
+node_modules
