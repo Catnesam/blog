@@ -14,7 +14,7 @@ heroImageStyle: {
   background: 'rgba(0, 0, 0, 0.8) none repeat scroll !important',
 }
 isShowTitleInHome: true
-actionText: '开启进阶之路'
+actionText: 'Get Start->'
 actionLink: /views/
 features:
 - title: 
@@ -23,7 +23,7 @@ features:
   details: 把所有的努力给今天
 - title: 
   details: 把所有的希望给明天
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: MIT Licensed | Copyright © 2020-present Little Sen
 ---
 
 <Clock/>
