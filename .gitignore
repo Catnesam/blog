@@ -2,3 +2,4 @@ gb-pages/
 docs/.vuepress/dist/
 .vscode/
 node_modules
+.DS_Store
