@@ -28,13 +28,13 @@ isShowComments: true
 
 <div id='fj'>
 
-[【前端】](/views/front-end/js-json.html) | [【后端】](/views/java/ArrayList.html)
+[【前端】](/categories/前端/) | [【后端】](/categories/后端/)
 
 </div>
 
 <div id='se'>
 
- [【规范】](/views/specification/ali.html) | [【随笔】](/views/essay/20191109.html)
+ [【总结】](/categories/总结/) | [【标签】](/tag/)
 
 </div>
 

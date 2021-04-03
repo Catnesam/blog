@@ -11,15 +11,9 @@ module.exports = [
       }, {
           text: 'Common sites🎈',
           items: [{
-              text: 'Java SE API Documentation',
-              link: 'https://docs.oracle.com/javase/8/docs/api/index.html',
-          }, {
-              text: 'Program Creek',
-              link: 'https://www.programcreek.com/',
-          }, {
-              text: 'Spring',
-              link: 'https://spring.io/',
-          }, {
+              text: 'React.js',
+              link: 'https://react.docschina.org/'
+          },{
               text: 'Stackoverflow',
               link: 'https://stackoverflow.com/',
           }, {
