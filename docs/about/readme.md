@@ -7,11 +7,9 @@ isShowComments: true
 
 <p align="center"><img style="border-radius:41%;pointer-events:none;transform: scale(0.9);" :src="$withBase('/vuepress/head-fish.jpg')" alt="znote-head" height=200 width=200></p>
 <p align="center" style="margin-top: -15px;">
-  <a href="https://zpj80231.gitee.io/znote/" class="zi zi_textbook"></a> 
-  <a href="mailto:zpj80231@163.com" class="zi zi_envelope"></a> 
-  <a href="https://github.com/zpj80231" class="zi zi_tmGithub"></a>
-  <a href="https://twitter.com/zpj80231" class="zi zi_tmTwitter"></a>
-  <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=916665067&website=www.oicqzone.com" class="zi zi_tmQq"></a>
+  <a href="https://github.com/Catnesam/blog" class="zi zi_textbook"></a> 
+  <a href="mailto:815305712@qq.com" class="zi zi_envelope"></a> 
+  <a href="https://github.com/Catnesam" class="zi zi_tmGithub"></a>
 </p>
 
 <Clock02/>

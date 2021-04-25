@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="https://catnesam.github.io/blog/" target="_blank"><img alt="Read the Docs" src="https://img.shields.io/badge/docs-GetStarted-red?style=flat-square&logo=read-the-docs"></a>
-   <a href="https://github.com/Catnesam/blog" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-znote-black?style=flat-square&logo=github"></a>
+   <a href="https://github.com/Catnesam/blog" target="_blank"></a>
    <br/>
    <a href="https://github.com/vuejs/vuepress" target="_blank"><img alt="vuepress" src="https://img.shields.io/badge/vuepress-build-1aad19?style=flat-square&logo=vue.js"></a>
    <a href="https://github.com/vuepress-reco/vuepress-theme-reco" target="_blank"><img alt="vuepress" src="https://img.shields.io/badge/reco-theme-26a2ff?style=flat-square&logo=vue.js"></a>
